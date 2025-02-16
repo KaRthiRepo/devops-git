@@ -1,1 +1,3 @@
 this is a new filr
+
+Here this the things we gonna do in this repository
