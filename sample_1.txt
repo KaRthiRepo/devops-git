@@ -2,3 +2,4 @@ This is sample File 1
 
 
 neww comment
+This is the stash method, Change file 1

@@ -1,1 +1,2 @@
 This is sample File 2
+This is the stash method, Change file 2
